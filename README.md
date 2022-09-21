@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou o WellyngthonG. 🐱‍👤✌🏽
 <br/>
 
-[![me PORTIFÓLIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](www.wellingtongs.com.br)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtongs/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/wellingtongs)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellyngthong/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtongs/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/wellingtongs)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellyngthong/)
 
 
 ![WellyngthonG GitHub stats](https://github-readme-stats.vercel.app/api?username=WellyngthonG&show_icons=true&theme=radical)
