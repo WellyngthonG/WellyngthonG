@@ -1,29 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&height=120&section=header"/>
+## 👋 Hi, Welcome to my Github!
 
+- 📊 I'm currently studying Data Science and Analytics.
+- 📍 I live in Tebas - MG/BR
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=16a34a&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Wellington+Guimarães+😊;I'm+31+years+old;I'm+from+Brazil;Data+Scientist+👨🏻‍💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
+### 📫 How to reach me:
 
+<a href="https://www.linkedin.com/in/wellingtongs/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+### 🧰 Skills:
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&height=120&section=footer&text=&fontColor=ffffff&fontSize=20&fontAlignY=32" alt="Footer Banner" />
-<!--
-**WellyngthonG/WellyngthonG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![WellyngthonG GitHub stats](https://github-readme-stats.vercel.app/api?username=WellyngthonG&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
