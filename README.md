@@ -1,7 +1,7 @@
 ## 👋 Hi, Welcome to my Github!
 
 - 📊 I'm currently studying Data Science and Analytics.
-- 📍 I live in Tebas - MG/BR
+- 📍 I live in Leopoldina - MG/BR
 
 ### 📫 How to reach me:
 
